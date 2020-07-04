@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I'm working on the #100DaysOfCode challenge👩‍💻 As a first product, I am working with my friend to creat a Web app with Rest API for risk-free yield curves.
+I'm working on the #100DaysOfCode challenge👩‍💻 As a first product, I am working with my friend @simicd to creat a Web app with Rest API for risk-free yield curves.
 
-The curves are needed for regulatory reporting in Europe. Data is publicly available but can only be accessed via single monthly Excel files and it is in a format that is difficult to use.
+- The curves are needed for regulatory reporting in Europe. 
+- Data is publicly available but can only be accessed via single monthly Excel files and it is in a format that is difficult to use.
 
 
 <!--
